@@ -1,3 +1,3 @@
 f <- function() {
-  "This is a function"
+  "This is a cool function"
 }
